@@ -1,0 +1,5 @@
+#Generated backup archives
+backups/
+
+#log files
+logs/*.log
